@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Bird, black-throated butcher",
+            "category": "Violet"
+        },
+        {
+            "id": 2,
+            "name": "Bald eagle",
+            "category": "Yellow"
+        },
+        {
+            "id": 3,
+            "name": "Rufous-collared sparrow",
+            "category": "Fuscia"
+        },
+        {
+            "id": 4,
+            "name": "Lappet-faced vulture",
+            "category": "Puce"
+        },
+        {
+            "id": 5,
+            "name": "Snake, western patch-nosed",
+            "category": "Green"
+        },
+        {
+            "id": 6,
+            "name": "Impala",
+            "category": "Teal"
+        },
+        {
+            "id": 7,
+            "name": "Booby, blue-footed",
+            "category": "Blue"
+        },
+        {
+            "id": 8,
+            "name": "Cat, long-tailed spotted",
+            "category": "Maroon"
+        },
+        {
+            "id": 9,
+            "name": "Tapir, brazilian",
+            "category": "Pink"
+        },
+        {
+            "id": 10,
+            "name": "Lion, galapagos sea",
+            "category": "Violet"
+        },
+        {
+            "id": 11,
+            "name": "Seven-banded armadillo",
+            "category": "Mauv"
+        },
+        {
+            "id": 12,
+            "name": "Coke's hartebeest",
+            "category": "Maroon"
+        },
+        {
+            "id": 13,
+            "name": "Tern, white-winged black",
+            "category": "Orange"
+        },
+        {
+            "id": 14,
+            "name": "Tern, royal",
+            "category": "Green"
+        },
+        {
+            "id": 15,
+            "name": "Llama",
+            "category": "Blue"
+        },
+        {
+            "id": 16,
+            "name": "Red kangaroo",
+            "category": "Teal"
+        },
+        {
+            "id": 17,
+            "name": "Black-necked stork",
+            "category": "Khaki"
+        },
+        {
+            "id": 18,
+            "name": "Chilean flamingo",
+            "category": "Orange"
+        },
+        {
+            "id": 19,
+            "name": "Colobus, black and white",
+            "category": "Orange"
+        },
+        {
+            "id": 20,
+            "name": "Ibis, glossy",
+            "category": "Pink"
+        }
+    ]
+}
